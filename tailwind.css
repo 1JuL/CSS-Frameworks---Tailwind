@@ -5,7 +5,7 @@
 @font-face {
   font-family: "hanken-grotesk";
 
-  src: url("./assets/fonts/HankenGrotesk-VariableFont_wght.ttf")
+  src: url("../assets/fonts/HankenGrotesk-VariableFont_wght.ttf")
       format("truetype");
 }
 
@@ -160,6 +160,10 @@ span.sub-title{font-size: large;}
     justify-content: center;
     justify-items: center;
     margin-top: 200px;
+  }
+
+  .container2{
+    display: inline-flex;
   }
 
   .primera{
